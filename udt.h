@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #ifndef UDT_H
 #define UDT_H
 
