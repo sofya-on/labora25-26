@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include "sort.h"
 
 void udtMergeSort(Udt *udt)
