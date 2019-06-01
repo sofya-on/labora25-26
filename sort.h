@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #ifndef UDT_SORT_H
 #define UDT_SORT_H
 
