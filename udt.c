@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include "udt.h"
 
 void udtCreate(Udt *udt, const int capacity)
